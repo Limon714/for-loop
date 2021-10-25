@@ -8,6 +8,7 @@
     <title>Way to Success</title>
 </head>
 <body>
+    <h1> Hello World </h1>
     <?php 
      for($a = 1; $a <=100; $a++){
         echo $a . ") I love PHP <br>";
