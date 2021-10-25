@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(37, 8, 116);
+    color: aliceblue;
+    font-size: large;
+    text-align: center;
+}
